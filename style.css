@@ -1,0 +1,30 @@
+h1{color: rgb(0, 95, 219);}
+            h2{color: rgb(107, 107, 230);}
+            p{color: rgb(0, 0, 0);}
+            .Headder{
+                background-color:rgb(112, 50, 50);
+                display: flex;
+        justify-content: space-between;
+        
+        
+        }
+        .Grid{
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: space-evenly;
+        }
+        .footer{
+            display: flex;
+            justify-content: flex-end;
+        }
+        .item{
+            background-color: rgb(151, 50, 50);
+        }
+        p,h2{text-align: center;}
+        body{background-color: #000000;
+        
+        border: solid;
+
+        }
+
+        
